@@ -1,2 +1,3 @@
 # git-demo
-to demonstrate how to use git and GitHub
+Arris Moise
+Link to my page: https://github.com/arrismo
