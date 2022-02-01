@@ -2,4 +2,4 @@
 to demonstrate how to use git and GitHub
 
 
-Swaha Bhattacharya: https://github.com/Swaha294
+Swaha Bhattacharya - https://github.com/Swaha294
