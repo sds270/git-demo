@@ -1,6 +1,7 @@
 # git-demo
 to demonstrate how to use git and GitHub
 
+- [Emma Vejcik](https://github.com/evejcik)
 - [Michelle Flesaker](https://github.com/mflesaker)
 - [Rose Porta](https://github.com/rporta23)
 - [Katelyn Diaz](github.com/katelyndiaz)
