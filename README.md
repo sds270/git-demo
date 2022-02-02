@@ -1,6 +1,7 @@
 # git-demo
 to demonstrate how to use git and GitHub
 
+- [Nikki Schuldt](https://github.com/nikkischuldt)
 - [Tianshu Zhang](https://github.com/tianshu-zhang)
 - [Emma Vejcik](https://github.com/evejcik)
 - [Michelle Flesaker](https://github.com/mflesaker)
