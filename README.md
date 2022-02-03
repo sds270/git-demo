@@ -1,6 +1,8 @@
 # git-demo
 to demonstrate how to use git and GitHub
 
+Annah Mutaya : https://github.com/amutaya
+
 - [Vivian Almaraz](https://github.com/vivala1)
 - [Wayne Ndlovu](https://github.com/wndlovu)
 - [Georgia Gans](github.com/georgiagans)
