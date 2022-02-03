@@ -1,6 +1,7 @@
 # git-demo
 to demonstrate how to use git and GitHub
 
+- [Georgia Gans](github.com/georgiagans)
 - [hongtong lin](https://github.com/hongtonglin)
 - [Clara Li](https://github.com/statsmed-sheep)
 - [Nikki Schuldt](https://github.com/nikkischuldt)
