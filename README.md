@@ -18,3 +18,4 @@ to demonstrate how to use git and GitHub
 - [Ziyue Yang](https://github.com/zyang2k)
 - [Irene Foster](https://github.com/i-m-foster)
 - [Renee Wu](https://github.com/rwu08)
+- [Kacey Jean-Jacques] (https://github.com/kaceyjj)
