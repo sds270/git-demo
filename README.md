@@ -2,6 +2,7 @@
 
 to demonstrate how to use git and GitHub
 
+- [Swaha Bhattacharya](https://github.com/Swaha294)
 - [Annah N Mutaya](https://github.com/amutaya)
 - [Kate Phan](https://github.com/katephan)
 - [Arris Moise](https://github.com/arrismo)
