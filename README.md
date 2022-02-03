@@ -2,6 +2,7 @@
 
 to demonstrate how to use git and GitHub
 
+- [Kate Phan](https://github.com/katephan)
 - [Arris Moise](https://github.com/arrismo)
 - [Abbie Benfield](https://github.com/abbidabbers)
 - [Vivian Almaraz](https://github.com/vivala1)
