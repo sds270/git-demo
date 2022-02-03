@@ -1,6 +1,7 @@
 # git-demo
 to demonstrate how to use git and GitHub
 
+- [Vivian Almaraz](https://github.com/vivala1)
 - [Wayne Ndlovu](https://github.com/wndlovu)
 - [Georgia Gans](github.com/georgiagans)
 - [hongtong lin](https://github.com/hongtonglin)
