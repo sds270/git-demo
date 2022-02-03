@@ -13,4 +13,5 @@ to demonstrate how to use git and GitHub
 - [Quinn White](https://github.com/q-w-a)
 - [Elina Gordon-Halpern](https://github.com/egordonhalpern)
 - [Grace Hartley](https://github.com/hartlegr)
+- [Irene Foster](https://github.com/i-m-foster)
 - [Renee Wu](https://github.com/rwu08)
