@@ -1,6 +1,8 @@
 # git-demo
+
 to demonstrate how to use git and GitHub
 
+- [Arris Moise](https://github.com/arrismo)
 - [Abbie Benfield](https://github.com/abbidabbers)
 - [Vivian Almaraz](https://github.com/vivala1)
 - [Wayne Ndlovu](https://github.com/wndlovu)
