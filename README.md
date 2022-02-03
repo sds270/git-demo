@@ -1,7 +1,10 @@
 # git-demo
+
 to demonstrate how to use git and GitHub
 
 - [Kate Phan](https://github.com/katephan)
+- [Arris Moise](https://github.com/arrismo)
+- [Abbie Benfield](https://github.com/abbidabbers)
 - [Vivian Almaraz](https://github.com/vivala1)
 - [Wayne Ndlovu](https://github.com/wndlovu)
 - [Georgia Gans](github.com/georgiagans)
@@ -21,3 +24,4 @@ to demonstrate how to use git and GitHub
 - [Ziyue Yang](https://github.com/zyang2k)
 - [Irene Foster](https://github.com/i-m-foster)
 - [Renee Wu](https://github.com/rwu08)
+- [Kacey Jean-Jacques](https://github.com/kaceyjj)
