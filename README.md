@@ -14,7 +14,7 @@ to demonstrate how to use git and GitHub
 - [Emma Vejcik](https://github.com/evejcik)
 - [Michelle Flesaker](https://github.com/mflesaker)
 - [Rose Porta](https://github.com/rporta23)
-- [Katelyn Diaz](github.com/katelyndiaz)
+- [Katelyn Diaz](https://github.com/katelyndiaz)
 - [Catherine Park](https://github.com/CJParkNW)
 - [Quinn White](https://github.com/q-w-a)
 - [Elina Gordon-Halpern](https://github.com/egordonhalpern)
@@ -24,3 +24,4 @@ to demonstrate how to use git and GitHub
 - [Irene Foster](https://github.com/i-m-foster)
 - [Renee Wu](https://github.com/rwu08)
 - [Kacey Jean-Jacques](https://github.com/kaceyjj)
+- [Aushanae Haller](https://github.com/ajhaller)
