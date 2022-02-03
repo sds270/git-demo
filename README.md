@@ -1,6 +1,8 @@
 # git-demo
 to demonstrate how to use git and GitHub
 
+- [hongtong lin](https://github.com/hongtonglin)
+- [Clara Li](https://github.com/statsmed-sheep)
 - [Nikki Schuldt](https://github.com/nikkischuldt)
 - [Tianshu Zhang](https://github.com/tianshu-zhang)
 - [Emma Vejcik](https://github.com/evejcik)
@@ -12,3 +14,5 @@ to demonstrate how to use git and GitHub
 - [Elina Gordon-Halpern](https://github.com/egordonhalpern)
 - [Grace Hartley](https://github.com/hartlegr)
 - [Ziyue Yang](https://github.com/zyang2k)
+- [Irene Foster](https://github.com/i-m-foster)
+- [Renee Wu](https://github.com/rwu08)
