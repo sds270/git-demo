@@ -31,3 +31,4 @@ to demonstrate how to use git and GitHub
 - [Irene Foster](https://github.com/i-m-foster)
 - [Renee Wu](https://github.com/rwu08)
 - [Kacey Jean-Jacques](https://github.com/kaceyjj)
+- [Tess Goldmann](https://github.com/tessgold)
