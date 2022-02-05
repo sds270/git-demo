@@ -2,6 +2,7 @@
 
 to demonstrate how to use git and GitHub
 
+- [alejandra munoz garcia](https://github.com/alejanmg)
 - [Jacqueline Chen](https://github.com/CCccc-76)
 - [ben bruncati](https://github.com/kbruncati)
 - [Catherine Peppers](https://github.com/catherinepeppers)
