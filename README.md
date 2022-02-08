@@ -2,6 +2,14 @@
 
 to demonstrate how to use git and GitHub
 
+- [alejandra munoz garcia](https://github.com/alejanmg)
+- [Jacqueline Chen](https://github.com/CCccc-76)
+- [ben bruncati](https://github.com/kbruncati)
+- [Catherine Peppers](https://github.com/catherinepeppers)
+- [Shirley Zhang](https://github.com/shirleyzhang-1999)
+- [Swaha Bhattacharya](https://github.com/Swaha294)
+- [Annah N Mutaya](https://github.com/amutaya)
+- [Kate Phan](https://github.com/katephan)
 - [Arris Moise](https://github.com/arrismo)
 - [Abbie Benfield](https://github.com/abbidabbers)
 - [Vivian Almaraz](https://github.com/vivala1)
@@ -25,3 +33,5 @@ to demonstrate how to use git and GitHub
 - [Renee Wu](https://github.com/rwu08)
 - [Kacey Jean-Jacques](https://github.com/kaceyjj)
 - [Aushanae Haller](https://github.com/ajhaller)
+- [Tess Goldmann](https://github.com/tessgold)
+- [Silas Weden](https://github.com/silasweden)
