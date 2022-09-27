@@ -10,6 +10,7 @@ to demonstrate how to use git and GitHub
 
 ## Spring 2022
 
+- [=Adriana Beltran Andrade](https://github.com/abeltranandrade)
 - [alejandra munoz garcia](https://github.com/alejanmg)
 - [Jacqueline Chen](https://github.com/CCccc-76)
 - [ben bruncati](https://github.com/kbruncati)
