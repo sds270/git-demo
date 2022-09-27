@@ -6,7 +6,7 @@ to demonstrate how to use git and GitHub
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
 
-
+- [Lillian Fok] (https://github.com/lillianfok)
 
 ## Spring 2022
 
