@@ -6,7 +6,7 @@ to demonstrate how to use git and GitHub
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
 - [Zoe W. Baker](https://github.com/zbaker23)
-
+- [Jane Andrews](https://github.com/jkandrews)
 
 ## Spring 2022
 
