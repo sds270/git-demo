@@ -5,7 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
-
+- [Bert K](https://github.com/rudeboybert2)
 
 
 ## Spring 2022
