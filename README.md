@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Mack Case](https://github.com/mcase07/)
 
 
 
