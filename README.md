@@ -5,11 +5,12 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Zoe W. Baker](https://github.com/zbaker23)
+- [Jane Andrews](https://github.com/jkandrews)
 - [Amrita Acharya](https://github.com/aacharya23)
 - [Charavee Basnet Chettri](https://github.com/Charavee)
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
-
 
 ## Spring 2022
 
