@@ -6,6 +6,7 @@ to demonstrate how to use git and GitHub
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
 - [Betty Pu](https://github.com/Bettyjpu)
+- [Brianna Mateo](https://github.com/BriannaMMateo)
 
 
 ## Spring 2022
@@ -43,3 +44,4 @@ to demonstrate how to use git and GitHub
 - [Aushanae Haller](https://github.com/ajhaller)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
+-
