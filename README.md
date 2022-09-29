@@ -8,7 +8,6 @@ to demonstrate how to use git and GitHub
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Chi Qiu](https://github.com/chiqiu23)
 
-
 ## Spring 2022
 
 - [alejandra munoz garcia](https://github.com/alejanmg)
