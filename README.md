@@ -10,6 +10,7 @@ to demonstrate how to use git and GitHub
 - [Zoe W. Baker](https://github.com/zbaker23)
 - [Charavee Basnet Chettri](https://github.com/Charavee)
 - [Margaret Bassney](https://github.com/MargaretBassney)
+- [Meaghan Brennan](https://github.com/teenyss)
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
 
