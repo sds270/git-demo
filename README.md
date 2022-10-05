@@ -6,6 +6,10 @@ to demonstrate how to use git and GitHub
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
 - [Lillian Fok] (https://github.com/lillianfok)
+- [Mars Ikeda](https://github.com/mars-ikeda) test
+- [Julia Ting](https://github.com/jtingy)
+- [Lessly Ortiz](https://github.com/lesslyortiz) 
+- [Parunjodhi Munisamy](https://github.com/parunjodhi)
 - [Beata Knecht](https://github.com/beatamk)
 - [Naomi Liftman](https://github.com/nliftman)
 - [Audrey Kim](https://github.com/audreykim640/)
@@ -18,6 +22,7 @@ to demonstrate how to use git and GitHub
 - [Charavee Basnet Chettri](https://github.com/Charavee)
 - [Margaret Bassney](https://github.com/MargaretBassney)
 - [Meaghan Brennan](https://github.com/teenyss)
+- [Mack Case](https://github.com/mcase07/)
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Chi Qiu](https://github.com/chiqiu23)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
