@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Lessly Ortiz](https://github.com/lesslyortiz) 
 - [Parunjodhi Munisamy](https://github.com/parunjodhi)
 - [Beata Knecht](https://github.com/beatamk)
 - [Naomi Liftman](https://github.com/nliftman)
