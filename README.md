@@ -13,6 +13,7 @@ to demonstrate how to use git and GitHub
 - [Meaghan Brennan](https://github.com/teenyss)
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
+- [Adriana Beltran Andrade](https://github.com/abeltranandrade)
 
 ## Spring 2022
 
