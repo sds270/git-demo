@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Maeve Tyler-Penny](https://github.com/mctp546)
 
 
 
@@ -43,4 +44,4 @@ to demonstrate how to use git and GitHub
 - [Aushanae Haller](https://github.com/ajhaller)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
-- [Maeve Tyler-Penny](https://github.com/mctp546)
+
