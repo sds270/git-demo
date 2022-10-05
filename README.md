@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Grace Rade](https://github.com/g-rade)
 
 
 
@@ -43,4 +44,4 @@ to demonstrate how to use git and GitHub
 - [Aushanae Haller](https://github.com/ajhaller)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
-- [Grace Rade](https://github.com/g-rade)
+
