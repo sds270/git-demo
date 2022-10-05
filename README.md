@@ -5,8 +5,8 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
-- [Lillian Fok] (https://github.com/lillianfok)
-- [Mars Ikeda](https://github.com/mars-ikeda) test
+- [Lillian Fok](https://github.com/lillianfok)
+- [Mars Ikeda](https://github.com/mars-ikeda)
 - [Julia Ting](https://github.com/jtingy)
 - [Lessly Ortiz](https://github.com/lesslyortiz) 
 - [Parunjodhi Munisamy](https://github.com/parunjodhi)
