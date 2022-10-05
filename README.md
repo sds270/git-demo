@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Michel Ruiz-Fuentes ](https://github.com/michelruizfuentes)
 - [Jane Andrews](https://github.com/jkandrews)
 - [Amrita Acharya](https://github.com/aacharya23)
 - [Zoe W. Baker](https://github.com/zbaker23)
