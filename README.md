@@ -5,8 +5,16 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Jane Andrews](https://github.com/jkandrews)
+- [Amrita Acharya](https://github.com/aacharya23)
+- [Zoe W. Baker](https://github.com/zbaker23)
+- [Charavee Basnet Chettri](https://github.com/Charavee)
+- [Margaret Bassney](https://github.com/MargaretBassney)
+- [Meaghan Brennan](https://github.com/teenyss)
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Chi Qiu](https://github.com/chiqiu23)
+- [Brianna Mateo](https://github.com/BriannaMMateo)
+- [Adriana Beltran Andrade](https://github.com/abeltranandrade)
 
 ## Spring 2022
 
@@ -43,3 +51,4 @@ to demonstrate how to use git and GitHub
 - [Aushanae Haller](https://github.com/ajhaller)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
+-
