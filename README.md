@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Naomi Liftman](https://github.com/nliftman)
 - [Audrey Kim](https://github.com/audreykim640/)
 - [Junru Wu](https://github.com/jwu13)
 - [Michiru Nozawa](https://github.com/Michiru0206)
