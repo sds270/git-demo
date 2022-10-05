@@ -20,6 +20,7 @@ to demonstrate how to use git and GitHub
 - [Charavee Basnet Chettri](https://github.com/Charavee)
 - [Margaret Bassney](https://github.com/MargaretBassney)
 - [Meaghan Brennan](https://github.com/teenyss)
+- [Mack Case](https://github.com/mcase07/)
 - [Betty Pu](https://github.com/Bettyjpu)
 - [Chi Qiu](https://github.com/chiqiu23)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
