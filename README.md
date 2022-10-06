@@ -29,10 +29,9 @@ to demonstrate how to use git and GitHub
 - [Chi Qiu](https://github.com/chiqiu23)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
 - [Adriana Beltran Andrade](https://github.com/abeltranandrade)
+- [Maeve Tyler-Penny](https://github.com/mctp546)
 - [Emma Gardecki](https://github.com/emmagardecki)
 - [My My Tran](https://github.com/PuppehMama)
-
-
 
 ## Spring 2022
 
