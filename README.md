@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Grace Rade](https://github.com/g-rade)
 - [Lika Mikhelashvili](https://github.com/lmikhelashvili)
 - [Naomi Giancola](https://github.com/naomigiancola)
 - [Lillian Fok](https://github.com/lillianfok)
@@ -32,6 +33,7 @@ to demonstrate how to use git and GitHub
 - [Maeve Tyler-Penny](https://github.com/mctp546)
 - [Emma Gardecki](https://github.com/emmagardecki)
 - [My My Tran](https://github.com/PuppehMama)
+
 
 ## Spring 2022
 
@@ -68,4 +70,4 @@ to demonstrate how to use git and GitHub
 - [Aushanae Haller](https://github.com/ajhaller)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
--
+
