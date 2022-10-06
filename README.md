@@ -5,6 +5,7 @@ to demonstrate how to use git and GitHub
 ## Fall 2022
 
 - [Albert Y. Kim](https://github.com/rudeboybert)
+- [Lika Mikhelashvili](https://github.com/lmikhelashvili)
 - [Naomi Giancola](https://github.com/naomigiancola)
 - [Lillian Fok](https://github.com/lillianfok)
 - [Mars Ikeda](https://github.com/mars-ikeda)
@@ -28,6 +29,7 @@ to demonstrate how to use git and GitHub
 - [Chi Qiu](https://github.com/chiqiu23)
 - [Brianna Mateo](https://github.com/BriannaMMateo)
 - [Adriana Beltran Andrade](https://github.com/abeltranandrade)
+
 
 ## Spring 2022
 
