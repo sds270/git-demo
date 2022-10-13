@@ -34,7 +34,7 @@ to demonstrate how to use git and GitHub
 - [Emma Gardecki](https://github.com/emmagardecki)
 - [My My Tran](https://github.com/PuppehMama)
 - [Lily Diao](https://github.com/lilydiao)
-
+- [Nina Hernandez](http://github.com/nhernandez3)
 
 
 ## Spring 2022
